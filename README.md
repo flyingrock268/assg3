@@ -1,6 +1,7 @@
-Homwwork 3:
+Homework 3:
 
 Ben Johnson
+
 Lucas Harrison
 
 ## Quick Start
